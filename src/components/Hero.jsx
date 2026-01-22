@@ -41,13 +41,13 @@ export default function Hero() {
 
             <div className="flex gap-4">
               <a
-                href="/projects"
+                href="#projects"
                 className="bg-indigo-600 text-white px-5 py-2.5 rounded-full text-sm font-semibold shadow hover:bg-indigo-700 transition"
               >
                 View Projects
               </a>
               <a
-                href="/contact"
+                href="#contact"
                 className="border border-indigo-600 text-indigo-600 px-5 py-2.5 rounded-full text-sm font-semibold hover:bg-indigo-600 hover:text-white transition"
               >
                 Contact Me
